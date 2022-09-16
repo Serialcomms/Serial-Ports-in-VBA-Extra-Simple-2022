@@ -9,9 +9,6 @@ Option Explicit
  Private Const COM_PORT_NUMBER As Long = 1  ' < Change COM_PORT_NUMBER here
 ' -------------------------------------------------------------------------
 '
-' COM Port settings format as per command-line Mode command
-' https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/mode
-
 Private Const LONG_0 As Long = 0
 Private Const HANDLE_INVALID As Long = -1
 Private Const READ_BUFFER_LENGTH As Long = 1024
