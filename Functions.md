@@ -6,7 +6,7 @@
 | -------------------------------|----------------|---------------------------------------------------------------------------------------|
 | `start_com_port`               | `Boolean` [^1] | Starts com port with existing settings                                                |
 | `read_com_port`                | `String`       | Returns all [^3] waiting characters from com port                                     |
-| `read_com_port(6)`             | `String`       | Returns up to [^3] specified number of waiting characters from com port               |
+| `read_com_port(6)`             | `String`       | Returns up to [^3] specified number (6) of waiting characters from com port               |
 | `send_com_port("QWERTY")`      | `Boolean` [^1] | Sends [^2] supplied character string to com port                                      |
 | `send_com_port(COMMANDS)`      | `Boolean` [^1] | Sends [^2] character string defined in VBA constant or variable COMMANDS to com port  |
 | `stop_com_port`                | `Boolean` [^1] | Stops com port and returns its control back to Windows                                |
