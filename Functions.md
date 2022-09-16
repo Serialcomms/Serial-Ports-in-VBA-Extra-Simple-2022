@@ -22,5 +22,5 @@
       
 [^3]: Maximum characters returned = read buffer length (fixed value)    
       More waiting characters beyond buffer length may remain unread.   
-      Use `check_com_port` to confirm any remaining character count if required.            
+     
  
