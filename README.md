@@ -2,7 +2,11 @@
 
 **Extra-simple version suitable for basic data send/receive use only**
 
-Single Pre-Defined COM Port only supported. 
+This is the further simplified set of VBA Serial Port functions for use with one pre-defined Com Port only.
+
+Intended for use with serial devices which have a well-defined set of short commands and responses.
+
+
 
 <P>
 
