@@ -26,3 +26,5 @@ No functionality provided for
 - COM Port settings to be modified on starting
 
 </P>
+
+[Function List](Functions.md)
