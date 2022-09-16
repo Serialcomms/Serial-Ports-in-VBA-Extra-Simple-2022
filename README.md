@@ -6,21 +6,23 @@ This is the further simplified set of VBA Serial Port functions for use with one
 
 Intended for use with serial devices which have a well-defined set of short commands and responses.
 
+_Assumes that COM Port has previously been configured correctly via command-line or other method_
+
 
 
 <P>
 
-No requirements provided for
+No functionality provided for
 
 
 - Debugging
 
 - Multiple COM Ports
 
-- COM Port settings to be modified before use
-
 - Waiting data check before read
 
 - Device hardware (signalling) functions 
+  
+- COM Port settings to be modified on starting
 
 </P>
