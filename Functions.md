@@ -1,6 +1,6 @@
 ## Serial Port VBA Functions - Extra-simplified set
 
-##### All functions support one pre-defined Com Port only
+##### All functions support one pre-defined Com Port number with pre-configured settings only
 
 | VBA Function                   |    Returns     | Description                                                                           |
 | -------------------------------|----------------|---------------------------------------------------------------------------------------|
