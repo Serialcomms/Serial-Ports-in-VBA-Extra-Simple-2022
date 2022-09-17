@@ -29,5 +29,5 @@ No functionality provided for
 
 </P>
 
-[4 functions only - start, stop, send, read](Functions.md)
+[4 functions only - start, stop, send, read com port](Functions.md)
 
