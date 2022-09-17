@@ -21,6 +21,6 @@
       Maximum characters sent limited by timer `Write_Total_Timeout_Constant` value.    
       
 [^3]: Maximum characters returned = read buffer length (fixed value)    
-      More waiting characters beyond buffer length may remain unread.   
+      More waiting characters beyond read buffer length may remain unread until next read_com_port call.
      
 [^4]:  Excel will re-send if cell $B$5 contents change.
