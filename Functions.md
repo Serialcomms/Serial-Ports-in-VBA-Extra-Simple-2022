@@ -1,4 +1,4 @@
-## Serial Port VBA Functions - Extra-simplified set
+## Serial Port VBA Functions - Minimal Set
 
 ##### All functions support one pre-defined Com Port number with pre-configured settings only
 
