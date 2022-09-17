@@ -29,4 +29,5 @@ No functionality provided for
 
 </P>
 
-[Function List](Functions.md)
+[4 functions only - start, stop, send, read](Functions.md)
+
