@@ -17,7 +17,7 @@
 
 [^1]: Function returns `True` if successful, otherwise `False`  
 
-[^2]: Function will block until all characters are sent or write timer expires.  
+[^2]: Function will block until all characters are sent or write total constant timer expires.  
       Maximum characters sent limited by timer `Write_Total_Timeout_Constant` value.    
       
 [^3]: Maximum characters returned = read buffer length (fixed value)    
