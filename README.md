@@ -31,4 +31,4 @@ No functionality provided for
 
 [4 functions only - start, stop, send, read com port](Functions.md)
 
-[^1] Read and Write in same Excel sheet may require read delay
+[^1]: Read and Write in same Excel sheet may require read delay
