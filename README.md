@@ -21,7 +21,7 @@ No functionality provided for
 
 - Multiple COM Ports
 
-- Waiting data check before read
+- Waiting data check before read [^1]
 
 - Device hardware (signalling) functions 
   
@@ -31,3 +31,4 @@ No functionality provided for
 
 [4 functions only - start, stop, send, read com port](Functions.md)
 
+[^1] Read and Write in same Excel sheet may require read delay
