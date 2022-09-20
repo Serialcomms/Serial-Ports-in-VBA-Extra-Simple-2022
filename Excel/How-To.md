@@ -83,7 +83,7 @@
 * Check that `TRUE` is now shown in cell **A9**
 * `TRUE` confirms that the port has stopped.
 * Change any other cell or press F9 key on your PC
-* Check that **FALSE** appears in Cell **A5** (send_com_port has failed as expected)
+* Check that **FALSE** appears in Cell **A5** _(send_com_port has failed as expected)_
 * This confirms that `stop_com_port` is working. 
   
 </p>
