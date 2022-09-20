@@ -1,4 +1,4 @@
-# Installing and Using functions in Excel
+# Installing and Using functions as Excel Formulas
 ## Worksheet Cell Formulas
 
 
