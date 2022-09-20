@@ -67,7 +67,7 @@
 * Change any other cell or press F9 key on your PC 
 * Check that **HELLO** appears in Cell **B7**
 * Change any other cell or press F9 key on your PC for a second time
-* Check that Cell **B7** returns to blank
+* Check that Cell **B7** returns to blank (no new data to read)
 * Enter some new text on your device - e.g. **AGAIN** 
 * Change any other cell or press F9 key on your PC for a third time
 * Check that **AGAIN** appears in Cell **B7**  
