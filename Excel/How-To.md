@@ -51,7 +51,7 @@
 * In Cell **A5**, type the formula `=send_com_port(B5)` and hit return
 * Check that `TRUE` is now shown in cell **A5**  
 * Check that **TEST123** appears on your device
-* Change the text in Cell **B5** - e.g. QWERTY and hit return
+* Change the text in Cell **B5** - e.g. **QWERTY** and hit return
 * Check that `TRUE` is still shown in cell **A5**  
 * Check that **QWERTY** appears on your device
 * This confirms that `send_com_port` is working.    
@@ -64,12 +64,12 @@
   
 * In Cell **B7**, type the formula `=read_com_port()` and hit return
 * Enter some text on your device - e.g. **HELLO**
-* Change any other cell or press F9 on your PC 
+* Change any other cell or press F9 key on your PC 
 * Check that **HELLO** appears in Cell **B7**
-* Change any other cell or press F9 on your PC for a second time
+* Change any other cell or press F9 key on your PC for a second time
 * Check that Cell **B7** returns to blank
 * Enter some new text on your device - e.g. **AGAIN** 
-* Change any other cell or press F9 on your PC for a third time
+* Change any other cell or press F9 key on your PC for a third time
 * Check that **AGAIN** appears in Cell **B7**  
 * This confirms that `read_com_port` and `Application.Volatile` are working.  
   
@@ -82,8 +82,8 @@
 * In Cell **A9**, type the formula `=stop_com_port()` and hit return
 * Check that `TRUE` is now shown in cell **A9**
 * `TRUE` confirms that the port has stopped.
-* Change any other cell or press F9 on your PC
-* Check that **FALSE** appears in Cell **A5** (send_com_por has failed as expected)
+* Change any other cell or press F9 key on your PC
+* Check that **FALSE** appears in Cell **A5** (send_com_port has failed as expected)
 * This confirms that `stop_com_port` is working. 
   
 </p>
