@@ -22,8 +22,8 @@
 5.  From Project Explorer, right-hand click and select Import File.
 6.  Import the file SERIAL_PORT_EXTRA_SIMPLE_VBAn.bas
 7.  Check that a new module SERIAL_PORT_VBA_SIMPLE is created and visible in the Modules folder. 
-8.  Check/Edit COM_PORT_NUMBER value at start of module SERIAL_PORT_VBA_SIMPLE  
-9.  In function READ_COM_PORT, remove the comment mark before `Application.Volatile`    
+8.  Check/Edit `COM_PORT_NUMBER` value at start of module SERIAL_PORT_VBA_SIMPLE  
+9.  In function `READ_COM_PORT`, remove the comment mark before `Application.Volatile`    
 10. Close and return to Excel (Alt-Q)  
 11. IMPORTANT - save document as type **Macro-Enabled** with a file name of your choice.
   
