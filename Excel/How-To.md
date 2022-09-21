@@ -98,7 +98,7 @@
 #### Passive Devices  
 
 These devices do **not** need a command to be sent before replying.  
-Reads should function from Excel with no further action required.
+Reads should function from Excel with no further action required.  
 Send functions are usually not required, or required once only.  
  
 #### Active Devices 
