@@ -110,7 +110,7 @@ These devices  **do** need a command to be sent before replying.
   a) device to process the read command  
   b) serial data to be transmitted back 
 
-Remove the comment mark from `Kernel_Read_Milliseconds` in function `read_com_port`
+Remove the comment mark from `Kernel_Sleep_Milliseconds` in function `read_com_port`
     
 </p>
 </details>   
