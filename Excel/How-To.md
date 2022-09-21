@@ -40,6 +40,7 @@
 * In Cell **A3**, type the formula `=start_com_port()` and hit return
 * Check that `TRUE` is now shown in cell **A3**
 * `TRUE` confirms that the port has started.
+* `FALSE` means port not started, i.e. not found, already in use etc.   
   
 </p>
 </details>    
