@@ -6,7 +6,7 @@ This is the further simplified set of VBA Serial Port functions for use with one
 
 Intended for use with serial devices which have a well-defined set of short commands and responses.
 
-Functions can be used directly in Excel Worksheet Cells.
+Functions can be [used directly as formulas](/Excel/HowTo.md) in Excel Worksheet Cells.
 
 _Assumes that COM Port has previously been configured correctly via command-line or other method_
 
